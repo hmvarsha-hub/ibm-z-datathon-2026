@@ -1,0 +1,12 @@
+{
+  "name": "nammaflow-bengaluru-traffic-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A full-stack Bengaluru adaptive traffic and ambulance-priority concept demo.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
